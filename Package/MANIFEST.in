@@ -1,0 +1,3 @@
+include sunshareservice/doc/README.mdown
+include sunshareservice/sunshareservice_config.yaml
+graft sunshareservice/test

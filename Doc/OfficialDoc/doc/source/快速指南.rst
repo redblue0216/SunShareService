@@ -1,0 +1,17 @@
+========
+快速指南
+========
+
+服务端使用
+=========
+对于服务端数据服务启动，首先使用SunShareService命令行进行元数据库初始化,然后再启动服务端服务。
+
+以下是sunshareservicectl命令行示例：
+
+.. code-block:: bash
+
+	$ sunshareservicectl set-metadb
+
+	$ sunshareservicectl start-service 
+
+
